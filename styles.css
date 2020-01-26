@@ -219,7 +219,8 @@ br {
 
     #footerhome,
     #footercontact,
-    #footerportfolio {
+    #footerportfolio,
+    #footeractivities {
         visibility: hidden;
     }
     
@@ -300,7 +301,8 @@ br {
     
     #footerportfolio,
     #footercontact,
-    #footerhome {
+    #footerhome,
+    #footeractivities {
         visibility: visible;
         margin: 5px;
         padding: 10px;
