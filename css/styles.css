@@ -79,7 +79,8 @@ br {
 }
 
 .column img {
-    width: 90%;
+    height: 210px;
+    width: 80%;
     margin-left: 5%;
     margin-right: 5%;
 }
@@ -97,7 +98,7 @@ br {
     font-size: 11pt;
 }
 
-.Phone {
+/* .Phone {
     margin-top: 25px;
     margin-bottom: 0;
 }
@@ -105,7 +106,7 @@ br {
 .Email {
     margin-top: 20px;
     margin-bottom: 50px;
-}
+} */
 
 /* ======================== ID selectors ======================  */
 
@@ -178,7 +179,9 @@ br {
     display: table;
 }
 
-
+.footer-container {
+    display: block;
+}
 /* ======================= Media Queries ======================== */
 
 
@@ -280,6 +283,7 @@ br {
     }
 
     .column img {
+        max-height: 154.69px;
         width: 100%;
         margin-left: 0;
         margin-right: 0;
