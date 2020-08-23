@@ -1,2 +1,2 @@
 # techdegree-project-2
- CSS responsive webpage
+ CSS webpage focused on responsive design
